@@ -4,7 +4,6 @@ import Home from "../pages/Home";
 import About from "../pages/About";
 import AdminLayout from "../components/layout/AdminLayout";
 
-
 const router = createBrowserRouter([
     {
         path:'/',
